@@ -4,11 +4,13 @@
 
 
 <p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=deltahmed&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="deltahmed" />
+<a href="https://profil.deltahmed.fr">
+<img src="https://komarev.com/ghpvc/?username=deltahmed&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="deltahmed" /> </a>
 <a href="https://www.youtube.com/channel/UCZeubjnoztTC_RP_c4YOuYw">
     <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCPODTzHv0Njiyrja0HKK54g?style=for-the-badge&logo=youtube">
   </a>
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/deltahmed?style=for-the-badge&logo=github">
+    <a href="https://profil.deltahmed.fr">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/deltahmed?style=for-the-badge&logo=github"></a>
 
 </p>
 
@@ -23,6 +25,7 @@
 - 🌱 I’m currently learning in a french engineering school
 
 ### 🛠 &nbsp;Languages and Technologies  
+
 ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=C&logoColor=A8B9CC)&nbsp;
 
