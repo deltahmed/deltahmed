@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=A+simple+computer+science+student" alt="Typing SVG" /></a>
+  <a href="https://profil.deltahmed.fr"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=A+simple+computer+science+student" alt="Typing SVG" /></a>
 </p>
 
 - 🔭 Currently working on a C roguelike project
