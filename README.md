@@ -77,7 +77,7 @@ Other          4 hrs 23 mins   -------------------------   01.90 %
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="deltahmed.fr"><img src="https://img.shields.io/badge/-Website-00A5E9?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="[profil.deltahmed.fr](https://profil.deltahmed.fr/)"><img src="https://img.shields.io/badge/-Website-00A5E9?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="mailto:ahmed@deltahmed.fr"><img src="https://img.shields.io/badge/-Mail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/ahmedmathsinfo/"><img src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.tiktok.com/@ahmedmathsinfo"><img src="https://img.shields.io/badge/-Tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
