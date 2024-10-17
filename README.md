@@ -4,18 +4,18 @@
 
 
 <p align="center"> 
-<a href="https://profil.deltahmed.fr">
+<a href="https://deltahmed.fr">
 <img src="https://komarev.com/ghpvc/?username=deltahmed&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="deltahmed" /> </a>
 <a href="https://www.youtube.com/channel/UCZeubjnoztTC_RP_c4YOuYw">
     <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCPODTzHv0Njiyrja0HKK54g?style=for-the-badge&logo=youtube">
   </a>
-    <a href="https://profil.deltahmed.fr">
+    <a href="https://deltahmed.fr">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/deltahmed?style=for-the-badge&logo=github"></a>
 
 </p>
 
 <p align="left">
-  <a href="https://profil.deltahmed.fr"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=A+simple+computer+science+student" alt="Typing SVG" /></a>
+  <a href="https://deltahmed.fr"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=A+simple+computer+science+student" alt="Typing SVG" /></a>
 </p>
 
 - 🔭 Currently working on some little projects
@@ -81,10 +81,10 @@ Other          7 hrs 14 mins   -------------------------   01.77 %
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://profil.deltahmed.fr"><img src="https://img.shields.io/badge/-Website-00A5E9?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="mailto:ahmed@deltahmed.fr"><img src="https://img.shields.io/badge/-Mail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/ahmedmathsinfo/"><img src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.tiktok.com/@ahmedmathsinfo"><img src="https://img.shields.io/badge/-Tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
+<a href="https://deltahmed.fr"><img src="https://img.shields.io/badge/-Website-00A5E9?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="mailto:contact.ahmed.delta@gmail.com"><img src="https://img.shields.io/badge/-Mail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/deltahmed_/"><img src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.tiktok.com/@deltahmed"><img src="https://img.shields.io/badge/-Tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/UCPODTzHv0Njiyrja0HKK54g"><img src="https://img.shields.io/badge/-Youtube-ff4242?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
 </p>
