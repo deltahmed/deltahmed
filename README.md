@@ -49,7 +49,7 @@
 ![DaVinci Resolve](https://img.shields.io/static/v1?style=for-the-badge&message=DaVinci+Resolve&color=05122A&logo=DaVinci+Resolve&logoColor=FFFFFF&label=)
 
 ![Android](https://img.shields.io/badge/-Android-05122A?style=for-the-badge&logo=android)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-05122A?style=for-the-badge&logo=windows)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-05122A?style=for-the-badge&logo=gitforwindows)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&logo=linux)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
