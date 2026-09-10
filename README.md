@@ -6,9 +6,6 @@
 <p align="center"> 
 <a href="https://deltahmed.fr">
 <img src="https://komarev.com/ghpvc/?username=deltahmed&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="deltahmed" /> </a>
-<a href="https://www.youtube.com/channel/UCZeubjnoztTC_RP_c4YOuYw">
-    <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCPODTzHv0Njiyrja0HKK54g?style=for-the-badge&logo=youtube">
-  </a>
     <a href="https://deltahmed.fr">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/deltahmed?style=for-the-badge&logo=github"></a>
 
@@ -51,38 +48,6 @@
 ![Android](https://img.shields.io/badge/-Android-05122A?style=for-the-badge&logo=android)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=for-the-badge&logo=gitforwindows)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&logo=linux)&nbsp;
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/deltahmed">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=deltahmed&show_icons=true&locale=en&layout=compact&theme=nightowl&hide_border=true" alt="deltahmed" height=150px/><img  src="https://github-readme-stats.vercel.app/api?username=deltahmed&show_icons=true&locale=en&theme=nightowl&hide_border=true" alt="deltahmed" height=150px />
-</a>
-</p>
-
-
-
-### ⚙️ &nbsp;Coding Analytics
-
-<!--START_SECTION:waka-->
-
-```rust
-From: 05 May 2023 - To: 08 September 2026
-
-Total Time: 664 hrs 44 mins
-
-C               229 hrs 7 mins        >>>>>>>>>----------------   34.00 %
-Python          145 hrs 24 mins       >>>>>--------------------   21.58 %
-Markdown        110 hrs 33 mins       >>>>---------------------   16.41 %
-PHP             45 hrs 14 mins        >>-----------------------   06.71 %
-HTML            38 hrs 26 mins        >------------------------   05.71 %
-CSS             23 hrs 7 mins         >------------------------   03.43 %
-YAML            16 hrs 39 mins        >------------------------   02.47 %
-Text            16 hrs 16 mins        >------------------------   02.41 %
-Other           9 hrs 7 mins          -------------------------   01.36 %
-```
-
-<!--END_SECTION:waka-->
 
 ### 🤝🏻 &nbsp;Connect with Me
 
